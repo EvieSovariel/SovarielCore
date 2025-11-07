@@ -1,0 +1,8 @@
+qutip
+torch
+transformers
+streamlit
+numpy
+matplotlib
+mpi4py
+h5py
